@@ -7,3 +7,5 @@ dist/
 build/
 node_modules/
 
+temp.log
+temp.log
